@@ -44,7 +44,7 @@ else
             <li><a href="http://aws.amazon.com/sdkforphp">AWS SDK for PHP home</a></li>
             <li><a href="http://aws.amazon.com/php">PHP developer center</a></li>
             <li><a href="https://github.com/aws/aws-sdk-php">AWS SDK for PHP on GitHub</a></li>
- 	    <li><a href="https://github.com/Kuralbek222/php_app_for_jenkins">AWS SDK for PHP on GitHub</a></li>
+ 	    <li><a href="https://github.com/Kuralbek222/php_app_for_jenkins">ссылка на github</a></li>
         </ul>
     </section>
 
